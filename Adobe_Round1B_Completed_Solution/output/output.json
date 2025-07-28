@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "documents": [
+      "doc1.pdf",
+      "doc2.pdf"
+    ],
+    "persona": {
+      "role": "Undergraduate Chemistry Student",
+      "focus": "Organic Chemistry, Reaction Mechanisms"
+    },
+    "job": {
+      "task": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+    },
+    "timestamp": "2025-07-28T17:14:32.140043"
+  },
+  "sections": [
+    {
+      "doc": "doc2.pdf",
+      "page": 11,
+      "text": "9.3 Determination of Enzyme Kinetic Mechanisms",
+      "importance_rank": 1,
+      "score": 0.19360204572438955
+    },
+    {
+      "doc": "doc1.pdf",
+      "page": 29,
+      "text": "We can therefore identify that for the overall reaction,",
+      "importance_rank": 2,
+      "score": 0.1918494284076444
+    },
+    {
+      "doc": "doc1.pdf",
+      "page": 30,
+      "text": "and we can identify the second order rate constant as",
+      "importance_rank": 3,
+      "score": 0.13901572326838835
+    },
+    {
+      "doc": "doc1.pdf",
+      "page": 1,
+      "text": "Reaction Kinetics      Dr Claire Vallance   First year, Hilary term      Suggested Reading       Physical Chemistry , P. W. Atkins    Reaction Kinetics , M. J. Pilling and P. W. Seakins    Chemical Kinetics , K. J. Laidler  Modern Liquid Phase Kinetics , B. G. Cox      Course synopsis         1.    Introduction   2.   Rate of reaction  3.    Rate laws  4.    The units of the rate constant  5.    Integrated rate laws  6.    Half lives  7.    Determining the rate law from experimental data      (i)  Isolation method      (ii)  Differential methods      (iii)  Integral methods      (iv)  Half lives  8.    Experimental techniques      (i)  Techniques for mixing the reactants and initiating reaction      (ii) Techniques for monitoring concentrations as a function of time       (iii) Temperature control and measurement  9.    Complex reactions  10.    Consecutive reactions  11.    Pre-equilibria  12.    The steady state approximation  13.   ‘Unimolecular’ reactions – the Lindemann-Hinshelwood mechanism      14.    Third order reactions  15.    Enzyme reactions – the Michaelis-Menten mechanism  16.    Chain reactions  17.    Linear chain reactions      The hydrogen – bromine reaction      The hydrogen – chlorine reaction      The hydrogen-iodine reaction      Comparison of the hydrogen-halogen reactions  18.    Explosions and branched chain reactions      The hydrogen – oxygen reaction  19.    Temperature dependence of reaction rates      The Arrhenius equation and activation energies      Overall activation energies for complex reactions      Catalysis  20.    Simple collision theory",
+      "importance_rank": 4,
+      "score": 0.1183340423797132
+    },
+    {
+      "doc": "doc1.pdf",
+      "page": 26,
+      "text": "Cl  Δ H =     4.4 kJ mol -1           Br  Δ H =   69.6 kJ mol -1           I  Δ H = 137.7 kJ mol -1     The iodine reaction is so slow that it does not occur at accessible temperatures, ruling out the  chain mechanism observed for the other two halogens.  The chlorine reaction is fast, and the  bromine reaction slow.  While the reverse (inhibition) step H + HX  →  X + H 2  is thermodynamically  favourable for both Cl and Br, it is unimportant for Cl due to the very low steady state concentration  of H atoms.  In contrast, the inhibition step has a considerable effect on the overall kinetics of the  bromine reaction.       18.  Explosions and branched chain reactions     An explosion occurs when a reaction rate accelerates out of control.  As the reaction speeds up,  gaseous products are formed in larger and larger amounts, and more and more heat is generated.  The rapid liberation of heat causes the gases to expand, generating extremely high pressures, and  it is this sudden formation of a huge volume of expanded gas that constitutes the explosion.  The  pressure wave travels at very high speeds, often much faster than the speed of sound, and the  ‘bang’ associated with an explosion is the result of a supersonic shock wave.    There are two different mechanisms that may lead to an explosion.  These are related to the fact  that the overall reaction rate depends on both the magnitude of the rate constant and the amounts  of reactants present in the reaction mixture.      If the heat generated in a reaction due to the reaction exothermicity cannot be dissipated  sufficiently rapidly, the temperature of the reaction mixture increases.  This increases the rate  constant, and therefore the reaction rate, producing more heat and accelerating the reaction rate  still further, and so on until an explosion results.  Such explosions are known as  thermal  explosions,  and in principle may occur whenever the rate of heat production by a reaction mixture  exceeds the rate of heat loss to the surroundings (often the walls of the reaction vessel).     The second category of explosions arise from chain branching within a chain reaction, and are  known as  chain branching explosions  (or sometimes, somewhat misleadingly, isothermal  explosions).  In this case, one or more steps in the reaction mechanism produce two or more chain  carriers from one chain carrier, increasing the number of chain carriers, and therefore the overall  reaction rate.    In practice, both mechanisms often occur simultaneously, since any acceleration in the rate of an  exothermic reaction will eventually lead to an increase in temperature.   However, chain branching  is not a requirement for an explosion.  As an example, detonation of TNT (2,4,6-trinitrotoluene) is  simply the result of an extremely fast chemical decomposition that generates huge quantities of  gas.  The reaction 2H 2 (g)  + O 2 (g)  →  2H 2 O (g)  provides an example of a reaction in which both  mechanisms are important.      The hydrogen – oxygen reaction:  2H 2 (g)  + O 2 (g)  →  2H 2 O (g)     Though this may at first sight appear to be a very simple reaction, the mechanism is in fact  extremely complex, and is still not fully understood.  It is known to be a branched chain reaction,  involving carriers such as H ½ ,  ½ O ½  and  ½ OH.  A simplified version of the thermal mechanism is given  below.",
+      "importance_rank": 5,
+      "score": 0.11177965183710778
+    },
+    {
+      "doc": "doc2.pdf",
+      "page": 23,
+      "text": "This experiment can identify a ping-pong mechanism. However, it cannot distinguish between the random equilibrium sequential and ordered sequential mechanisms. To distinguish between these two mechanisms, a detailed product inhibition study must be performed, using each product as the inhibitor with both substrates. The product inhibition equations for the two reactions types are beyond the scope of this chapter (for detail see Chapter 6 of [21] and Chapter 6 of [19]). The experiments should be performed using one substrate at either  K M app  or saturating levels (see Table 9.1) and varying the other substrate above and below  K M app . The products should be tested using at least ﬁve product concentrations, ideally covering a little product, the  K M app of the cognate substrate and the ‘saturating’ concentration of the cognate substrate (see the  protocol  below). An example of such an experiment is shown in Figure 9.18. The range of useful experiments and the expected outcomes for the diﬀerent mechanisms are listed in Table 9.1.",
+      "importance_rank": 6,
+      "score": 0.10417954359914305
+    },
+    {
+      "doc": "doc2.pdf",
+      "page": 36,
+      "text": "be used.  Pre-steady state kinetics  uses instruments providing millisecond resolution (e.g. stopped-ﬂow or quenched-ﬂow). The time resolution and amount of data obtained allows determination of individ- ual kinetic parameters rather than derivative parameters such as  K M  [66, 67], allowing deep insight into mechanisms [68].  Kinetic isotope eﬀects  are observed when the isotope of one atom involved in the reaction is altered [19, 66]. The reaction rate generally slows when the mass of an atom involved in the reaction increases. Such reactions allow the experimenter to distinguish between possible reac- tion mechanisms, and potentially to identify rate-limited steps in reactions (e.g. [69]). Finally, structural methods (e.g. with free-electron lasers) are providing greater insight by following reactions with high time resolution after activating the enzyme (e.g. [70, 71]). These methods are currently only available for photoactivatable enzymes; further developments will increase the range of systems suitable for these studies.",
+      "importance_rank": 7,
+      "score": 0.10091403983428776
+    },
+    {
+      "doc": "doc2.pdf",
+      "page": 38,
+      "text": "7  Kanehisa, M., Furumichi, M., Tanabe, M. et al. (2017). KEGG: new perspectives on genomes, pathways, diseases and drugs.  Nucleic Acids Res.  45 (D1): D353–D361. 8  Blau, N., Belanger-Quintana, A., Demirkol, M. et al. (2009). Optimizing the use of sapropterin (BH(4)) in the management of phenylketonuria.  Mol. Genet. Metab.  96 (4): 158–163. 9  Minucci, A., Moradkhani, K., Hwang, M.J. et al. (2012). Glucose-6-phosphate dehydrogenase (G6PD) mutations database: review of the ‘old’ and update of the new mutations.  Blood Cells Mol. Dis.  48 (3): 154–165. 10  Luzzatto, L. and Seneca, E. (2014). G6PD deﬁciency: a classic example of pharmacogenetics with on-going clinical implications.  Br. J. Haematol.  164 (4): 469–480. 11  Youngster, I., Arcavi, L., Schechmaster, R. et al. (2010). Medications and glucose-6-phosphate dehydroge- nase deﬁciency: an evidence-based review.  Drug Saf.  33 (9): 713–726. 12  Minucci, A., Giardina, B., Zuppi, C., and Capoluongo, E. (2009). Glucose-6-phosphate dehydrogenase labo- ratory assay: how, when, and why?  IUBMB Life  61 (1): 27–34. 13  Bornscheuer, U.T., Huisman, G.W., Kazlauskas, R.J. et al. (2012). Engineering the third wave of biocataly- sis.  Nature  485 (7397): 185–194. 14  Reetz, M.T. (2013). Biocatalysis in organic chemistry and biotechnology: past, present, and future.  J. Am. Chem. Soc.  135 (34): 12480–12496. 15  Bommarius, A.S. (2015). Biocatalysis: a status report.  Annu. Rev. Chem. Biomol. Eng.  6: 319–345. 16  Wohlgemuth, R. (2010). Biocatalysis – key to sustainable industrial chemistry.  Curr. Opin. Biotechnol.  21 (6): 713–724. 17  Wohlgemuth, R., Plazl, I., Znidarsic-Plazl, P. et al. (2015). Microscale technology and biocatalytic pro- cesses: opportunities and challenges for synthesis.  Trends Biotechnol.  33 (5): 302–314. 18  Taylor, S.J.C., Mccague, R., Wisdom, R. et al. (1993). Development of the biocatalytic resolution of 2-Azabicyclo[2.2.1]Hept-5-En-3-one as an entry to single-enantiomer carbocyclic nucleosides. Tetrahedron-Asymmetry  4 (6): 1117–1128. 19  Cornish-Bowden, A. (2012).  Fundamentals of Enzyme Kinetics . 4th, completely revised and greatly enlarged edition. ed., 498. Weinheim: Wiley-Blackwell. 20  Briggs, G.E. and Haldane, J.B. (1925). A note on the kinetics of enzyme action.  Biochem. J.  19 (2): 338–339. 21  Cook, P.F. and Cleland, W.W. (2007).  Enzyme Kinetics and Mechanism . London ; New York: Garland Science. 404 p. 22  Leskovac, V. (2003).  Comprehensive Enzyme Kinetics . New York: Kluwer Academic/Plenum Pub. 438 p. 23  Koshland, D.E. Jr. and Hamadani, K. (2002). Proteomics and models for enzyme cooperativity.  J. Biol. Chem.  277 (49): 46841–46844. 24  Koshland, D.E. Jr. (1996). The structural basis of negative cooperativity: receptors and enzymes.  Curr. Opin. Struct. Biol.  6 (6): 757–761. 25  Vivoli, M., Pang, J., and Harmer, N.J. (2017). A half-site multimeric enzyme achieves its cooperativity without conformational changes.  Sci. Rep.  7 (1): 16529. 26  Bloom, C.R., Kaarsholm, N.C., Ha, J., and Dunn, M.F. (1997). Half-site reactivity, negative cooperativ- ity, and positive cooperativity: quantitative considerations of a plausible model.  Biochemistry  36 (42): 12759–12765. 27  Cook, R.A. and Koshland, D.E. Jr. (1970). Positive and negative cooperativity in yeast glyceraldehyde 3-phosphate dehydrogenase.  Biochemistry  9 (17): 3337–3342. 28  Ferrari, M.E., Fang, J., and Lohman, T.M. (1997). A mutation in  E. coli  SSB protein (W54S) alters intra-tetramer negative cooperativity and inter-tetramer positive cooperativity for single-stranded DNA binding.  Biophys. Chem.  64 (1–3): 235–251. 29  Porter, C.M. and Miller, B.G. (2012). Cooperativity in monomeric enzymes with single ligand-binding sites.  Bioorg. Chem.  43: 44–50.",
+      "importance_rank": 8,
+      "score": 0.09840682162527126
+    },
+    {
+      "doc": "doc2.pdf",
+      "page": 8,
+      "text": "Reaction Chemical Kinetics in Biology 185",
+      "importance_rank": 9,
+      "score": 0.09302344297309731
+    },
+    {
+      "doc": "doc2.pdf",
+      "page": 4,
+      "text": "Reaction Chemical Kinetics in Biology 181",
+      "importance_rank": 10,
+      "score": 0.09032014205939247
+    }
+  ]
+}
